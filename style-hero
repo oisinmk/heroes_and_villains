@@ -1,0 +1,7 @@
+body    {
+            margin:auto;
+            width: 70%;
+            max-width: 750px;
+            min-width:320px;
+            font-size: 100%;
+                    }
